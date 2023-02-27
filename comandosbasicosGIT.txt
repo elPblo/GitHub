@@ -1,0 +1,21 @@
+# Para a instalação no linux.
+
+$ sudo apt install git
+
+# Crie uma pasta de repositório.
+
+$ mkdir nomedaPasta
+
+# Inicie o Git na pasta.
+
+$ git init
+
+# Crie algum documento para subir para o GitHub.
+
+$ git add ""
+
+# Use o commit para descrever e ter controle daqueles documentos/code.
+
+$ git commit -m "commit inicial"
+
+
