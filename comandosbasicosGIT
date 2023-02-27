@@ -31,4 +31,23 @@ $ git remote add origin "link do repositorio"
 
 $ git push --set-upstream origin master
 
+# Ver versoes.
+
+$ git reflog
+
+# Voltar as versoes.
+
+$ git reset --hard "id"
+
+# Ver todas as branch.
+
+$ git branch
+
+# Criar nova branch.
+
+$ git branch nomebranch
+
+# Mudando de branch.
+
+git checkout nomedabranch
 
