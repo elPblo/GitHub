@@ -27,7 +27,7 @@ $ git config --global user.name ""
 
 $ git remote add origin "link do repositorio"
 
-# 
+# Subindo code para a nuvem. 
 
 $ git push --set-upstream origin master
 
